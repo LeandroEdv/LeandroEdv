@@ -1,6 +1,6 @@
-## Olá! Eu sou Leandro Santana. 
+<H1>Olá! Eu sou Leandro Santana.</H1>
 
-Sou um desenvolvedor backend. Atualmente, estou em busca de oportunidades para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos inovadores.
+<p>Sou um desenvolvedor backend. Atualmente, estou em busca de oportunidades para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos inovadores.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroEdv&show_icons=true&theme=dracula)
 
