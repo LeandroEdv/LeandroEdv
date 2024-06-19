@@ -5,10 +5,10 @@
 
 <div style="display: inline_block">
 <br>
-    <a href=""><img align="center" alt="Instagram" height="35" width="140" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href=""><img align="center" alt="" height="35" width="140" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href=""><img align="center" alt="HTML" height="35" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href=""><img align="center" alt="postgresql" height="35" width="140" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href=""><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="www.linkedin.com/in/leandro-edvan"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href=""><img align="center" alt="HTML" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href=""><img align="center" alt="postgresql" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 <br>
 
@@ -19,10 +19,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
-    <a href="https://google.com" target="_blank"><img align="center" alt="Python" height="40" width="140" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> </a>
-    <a href="https://google.com" target="_blank"><img align="center" alt="HTML" height="40" width="140" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
-    <a href="https://google.com" target="_blank"><img align="center" alt="HTML" height="40" width="140" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </a>
-    <a href="https://google.com" target="_blank"><img align="center" alt="postgresql" height="40" width="140" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> </a>
+    <a href="" target="_blank"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="" target="_blank"><img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="" target="_blank"><img align="center" alt="HTML" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="" target="_blank"><img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </div>
 <br>
 
@@ -52,4 +52,5 @@ Um projeto de web scraping para coletar manchetes de notícias de diferentes sit
 <h2>🌱 O que estou aprendendo atualmente</h2>
 - Desenvolvimento Web com Flask e Django
 - Git
+- DataBase SQL
 
