@@ -1,6 +1,6 @@
 <div>
   <H2>Olá! Eu sou Leandro Santana.</H2>
-  <p>Sou um desenvolvedor backend. Atualmente, estou em busca de oportunidades para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos inovadores.</p>
+  <p>Sou um desenvolvedor backend. Atualmente, estou em busca de oportunidades para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos que desafiem e expandam meus conhecimentos..</p>
 </div>
 
 <div style="display: inline_block">
