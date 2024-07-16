@@ -56,7 +56,6 @@ Um projeto de web scraping para coletar manchetes de notícias de diferentes sit
   - 
 
 <h2>🌱 O que estou aprendendo atualmente</h2>
-- Desenvolvimento Web com Flask e Django
-- Git
+- Java
 - DataBase SQL
 
