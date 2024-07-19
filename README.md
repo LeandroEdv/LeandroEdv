@@ -52,10 +52,13 @@ Um projeto de web scraping para coletar manchetes de notícias de diferentes sit
 ## 📚 Educação
 - **Gruaduação (em progresso !)** -  Análise e desenvolvimento de sistemas
 - **Cursos Online**:
-  - Curso programação Python - OneBit Code
-  - 
+  - Bootcamp Java DIO
+  - **Curso programação Python - OneBit Code**
 
 <h2>🌱 O que estou aprendendo atualmente</h2>
+
+- Inglês
 - Java
 - DataBase SQL
+
 
