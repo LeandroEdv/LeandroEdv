@@ -1,7 +1,10 @@
-<div>
-  <H2>Olá! Eu sou Leandro Santana.</H2>
-  <p>Sou um desenvolvedor backend. Atualmente, estou em busca de oportunidades para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos que desafiem e expandam meus conhecimentos..</p>
+
+  ## Olá! Eu sou Leandro Santana.
+
+<div style="display: flex; align-items: center;">
+  <p style="margin-left: 20px;"></p>Sou um desenvolvedor backend. Atualmente, estou em busca de oportunidades para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos que desafiem e expandam meus conhecimentos<img src="img/imgProg.jpg" alt="Descrição da Imagem" style="width: 40%;">
 </div>
+
 
 <div style="display: inline_block">
 <br>
@@ -15,7 +18,6 @@
 <div style="display: inline_block">
 <img align="center" alt="Status" src="https://github-readme-stats.vercel.app/api?username=LeandroEdv&show_icons=true&theme=dracula"> 
  </div>
- 
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -33,10 +35,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &#160;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> &#160;
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> &ensp;
-</p
+</p>
 </div>
 
-## 📈 Projetos Principais
+## 📈 Principais Projetos: 
 
 ### [Calculadora De Juros Compostos Python](https://github.com/seuusuario/calculadora-python)
 
@@ -55,10 +57,11 @@ Um projeto de web scraping para coletar manchetes de notícias de diferentes sit
   - Bootcamp Java DIO
   - **Curso programação Python - OneBit Code**
 
-<h2>🌱 O que estou aprendendo atualmente</h2>
+## 🌱 O que estou aprendendo atualmente
 
 - Inglês
 - Java
 - DataBase SQL
+
 
 
