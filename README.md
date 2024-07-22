@@ -2,7 +2,7 @@
   ## Olá! Eu sou Leandro Santana.
 
 <div style="display: flex; align-items: center;">
-  <p style="margin-left: 20px;"></p>Sou um desenvolvedor backend. Atualmente, estou em busca de oportunidades para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos que desafiem e expandam meus conhecimentos<img src="img/imgProg.jpg" alt="Descrição da Imagem" style="width: 40%;">
+  <p style="margin-left: 20px;"></p>Sou um desenvolvedor backend. Atualmente, estou em busca de oportunidades para aplicar minhas habilidades em um ambiente profissional e contribuir para projetos que desafiem e expandam meus conhecimentos<img src="img/imgProg.jpg" alt="Descrição da Imagem" style="width: 45%;">
 </div>
 
 
