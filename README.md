@@ -42,16 +42,16 @@
 
 ## 📈 Principais Projetos: 
 
+### [RESTful API - Spring Boot](https://github.com/LeandroEdv/santander-dev-week)
+Java RESTful API criada para a Santander Dev Week.
+- **Funcionalidades**: 
+- **Tecnologias**: Java 17, Spring Boot 3, Spring Data JPA, Swagger
+
 ### [Calculadora De Juros Compostos Python](https://github.com/seuusuario/calculadora-python)
 
 Uma calculadora simples desenvolvida em Python utilizando a biblioteca CTkinter para a interface gráfica.
 - **Funcionalidades**: Operação de juros compostos e gráfico de rentabilidade.
 - **Tecnologias**: Python, Tkinter, Regex
-
-### [Web Scraper de Notícias](https://github.com/seuusuario/web-scraper)
-Um projeto de web scraping para coletar manchetes de notícias de diferentes sites.
-- **Funcionalidades**: Coleta de dados, armazenamento em CSV
-- **Tecnologias**: Python, BeautifulSoup, Requests
 
 ## 📚 Educação
 - **Gruaduação (em progresso !)** -  Análise e desenvolvimento de sistemas
@@ -61,7 +61,7 @@ Um projeto de web scraping para coletar manchetes de notícias de diferentes sit
 
 ## 🌱 O que estou aprendendo atualmente
 
-- Inglês
+
 - Java
 - DataBase SQL
 
