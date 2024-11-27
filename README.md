@@ -68,34 +68,41 @@
 
 ###
 
-<h3 align="left">RESTful API</h3>
+### [RESTful API - Spring Boot](https://github.com/LeandroEdv/santander-dev-week)
+
+#### ⚙️ Funcionalidades Principais
+- CRUD de Contas: <br>
+Criar, ler, atualizar e deletar contas bancárias.
+- Operações de Cliente:
+Listar clientes e contas associadas.
+Consultar detalhes específicos de um cliente ou conta.
+
+#### 🛠️ Tecnologias Utilizadas
+- Java 17: Versão mais recente, garantindo maior performance e segurança. <br>
+- Spring Boot 3: Framework para desenvolvimento rápido de APIs robustas. <br>
+- Spring Data JPA: Facilita a persistência de dados, conectando a API ao banco de dados. <br>
+- Swagger: Documentação interativa da API para facilitar o teste e uso. <br>
 
 ###
 
-<p align="left">Java RESTful API criada para a Santander Dev Week.<br>- **Funcionalidades**: <br>- **Tecnologias**: Java 17, Spring Boot 3, Spring Data JPA, Swagger</p>
+<h2 align="left">💡 Educação</h2>
 
 ###
 
-<h3 align="left">Hello World!!</h3>
+### 🎓 Formação Acadêmica
+- Graduação (em andamento): <br>
+Análise e Desenvolvimento de Sistemas
+### 📚 Cursos Complementares
 
-###
+- DevDojo Academy
+- Bootcamp Java – Digital Innovation One (DIO)
+- Curso de Programação Python – OneBit Code
 
-<p align="left">Uma calculadora simples desenvolvida em Python utilizando a biblioteca CTkinter para a interface gráfica.<br>- **Funcionalidades**: Operação de juros compostos e gráfico de rentabilidade.<br>- **Tecnologias**: Python, Tkinter, Regex</p>
 
-###
+### 🌱 O que estou aprendendo atualmente
 
-<h2 align="left">📚 Educação</h2>
-
-###
-
-<p align="left">- **Gruaduação (em progresso !)** -  Análise e desenvolvimento de sistemas<br>- **Cursos Online**:<br>  - Bootcamp Java DIO<br>  - **Curso programação Python - OneBit Code**</p>
-
-###
-
-<h2 align="left">🌱 O que estou aprendendo atualmente</h2>
-
-###
-
-<p align="left">- Java<br>- DataBase SQL</p>
+- Java / Spring Boot
+- Banco de Dados SQL
+- Inglês
 
 ###
