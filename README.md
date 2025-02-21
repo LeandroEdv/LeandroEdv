@@ -26,8 +26,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeandroEdv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LeandroEdv&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeandroEdv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="140" alt="stats graph"  />
+   
+  <img src="https://streak-stats.demolab.com?user=LeandroEdv&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
 </div>
 
 ###
@@ -67,6 +68,40 @@
 <h2 align="left">📈 Principais Projetos:</h2>
 
 ###
+### [Sistema de Gerenciamento de Imóveis](https://github.com/LeandroEdv/Study_projects/tree/main/real-estate)
+
+Uma API RESTful para gerenciar imóveis, permitindo realizar operações de criação, leitura, atualização e exclusão ( CRUD), além de filtrar e paginar resultados com base em critérios específicos, como categoria e tipo de transação.
+
+#### ⚙️ Funcionalidades Principais
+
+**CRUD Completo**:
+
+- Criação, leitura, atualização e exclusão de imóveis.
+- Validação de dados para garantir a integridade das informações.
+
+**Paginação e Filtros**:
+
+- Listagem de imóveis com suporte a paginação.
+- Filtros dinâmicos por categoria (apartamento, casa) e tipo de transação (venda, aluguel).
+
+**Testes Unitários**:
+
+- Cobertura de testes para as camadas de Controller, Service e Repository.
+- Uso de JUnit e Mockito para garantir a qualidade do código.
+
+**Arquitetura Organizada**:
+
+- Projeto estruturado em camadas (Controller, Service, Repository, Domain).
+- Uso de DTOs (Data Transfer Objects) para transferência de dados.
+
+#### 🛠️ Tecnologias Utilizadas
+
+- **Linguagem**: Java 17
+- **Framework**: Spring Boot
+- **Banco de Dados**: MySQL
+- **Testes**: JUnit, Mockito
+- **Ferramentas**: Lombok, Swagger (documentação da API), Docker
+---
 
 ### [RESTful API - Spring Boot](https://github.com/LeandroEdv/santander-dev-week)
 
@@ -78,30 +113,31 @@ Listar clientes e contas associadas.
 Consultar detalhes específicos de um cliente ou conta.
 
 #### 🛠️ Tecnologias Utilizadas
-- Java 17: Versão mais recente, garantindo maior performance e segurança. <br>
-- Spring Boot 3: Framework para desenvolvimento rápido de APIs robustas. <br>
-- Spring Data JPA: Facilita a persistência de dados, conectando a API ao banco de dados. <br>
-- Swagger: Documentação interativa da API para facilitar o teste e uso. <br>
+- **Java 17**: Versão mais recente, garantindo maior performance e segurança. <br>
+- **Spring Boot 3**: Framework para desenvolvimento rápido de APIs robustas. <br>
+- **Spring Data JPA**: Facilita a persistência de dados, conectando a API ao banco de dados. <br>
+- **Swagger**: Documentação interativa da API para facilitar o teste e uso. <br>
 
-###
+---
 
 <h2 align="left">💡 Educação</h2>
 
-###
 
 ### 🎓 Formação Acadêmica
-- Graduação (em andamento): <br>
+- Graduação  <br>
 Análise e Desenvolvimento de Sistemas
+
 ### 📚 Cursos Complementares
 
 - DevDojo Academy
 - Bootcamp Java – Digital Innovation One (DIO)
 - Curso de Programação Python – OneBit Code
+- Curso de Programação Full-Stack – OneBit Code
 
 
 ### 🌱 O que estou aprendendo atualmente
 
-- Java / Spring Boot
+- Java / Spring Boot / AWS
 - Banco de Dados SQL
 - Inglês
 
